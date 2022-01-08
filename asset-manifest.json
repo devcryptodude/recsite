@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.32f6f8b9.chunk.css",
-    "main.js": "/static/js/main.2008828c.chunk.js",
-    "main.js.map": "/static/js/main.2008828c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.616b5a26.js",
-    "runtime-main.js.map": "/static/js/runtime-main.616b5a26.js.map",
-    "static/css/2.268016db.chunk.css": "/static/css/2.268016db.chunk.css",
-    "static/js/2.ad3bbb3e.chunk.js": "/static/js/2.ad3bbb3e.chunk.js",
-    "static/js/2.ad3bbb3e.chunk.js.map": "/static/js/2.ad3bbb3e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.268016db.chunk.css.map": "/static/css/2.268016db.chunk.css.map",
-    "static/css/main.32f6f8b9.chunk.css.map": "/static/css/main.32f6f8b9.chunk.css.map",
-    "static/js/2.ad3bbb3e.chunk.js.LICENSE.txt": "/static/js/2.ad3bbb3e.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/RedHatText-Bold.79f1187c.ttf",
-    "static/media/logo.2dc2cdf6.png": "/static/media/logo.2dc2cdf6.png"
+    "main.css": "/recsite/static/css/main.3b435835.chunk.css",
+    "main.js": "/recsite/static/js/main.2008828c.chunk.js",
+    "main.js.map": "/recsite/static/js/main.2008828c.chunk.js.map",
+    "runtime-main.js": "/recsite/static/js/runtime-main.21cc987a.js",
+    "runtime-main.js.map": "/recsite/static/js/runtime-main.21cc987a.js.map",
+    "static/css/2.268016db.chunk.css": "/recsite/static/css/2.268016db.chunk.css",
+    "static/js/2.a866a3f8.chunk.js": "/recsite/static/js/2.a866a3f8.chunk.js",
+    "static/js/2.a866a3f8.chunk.js.map": "/recsite/static/js/2.a866a3f8.chunk.js.map",
+    "index.html": "/recsite/index.html",
+    "static/css/2.268016db.chunk.css.map": "/recsite/static/css/2.268016db.chunk.css.map",
+    "static/css/main.3b435835.chunk.css.map": "/recsite/static/css/main.3b435835.chunk.css.map",
+    "static/js/2.a866a3f8.chunk.js.LICENSE.txt": "/recsite/static/js/2.a866a3f8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/recsite/static/media/RedHatText-Bold.79f1187c.ttf",
+    "static/media/logo.2dc2cdf6.png": "/recsite/static/media/logo.2dc2cdf6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.616b5a26.js",
+    "static/js/runtime-main.21cc987a.js",
     "static/css/2.268016db.chunk.css",
-    "static/js/2.ad3bbb3e.chunk.js",
-    "static/css/main.32f6f8b9.chunk.css",
+    "static/js/2.a866a3f8.chunk.js",
+    "static/css/main.3b435835.chunk.css",
     "static/js/main.2008828c.chunk.js"
   ]
 }
